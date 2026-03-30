@@ -3,6 +3,7 @@
 ## 🧠 Overview  
 This project presents an advanced customer analytics dashboard built in Power BI for the **Onyx Data Challenge – July 2028**. The dashboard dives deep into satisfaction, loyalty, purchase behaviors, and regional engagement. It leverages interactive visuals and dynamic filters to decode patterns influencing repeat purchases and satisfaction scores across multiple dimensions.
 
+
 ---
 
 ## 📊 Key Analytical Themes
