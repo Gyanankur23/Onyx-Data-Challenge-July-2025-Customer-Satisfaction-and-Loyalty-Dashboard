@@ -6,6 +6,8 @@ This project presents an advanced customer analytics dashboard built in Power BI
 
 ---
 
+![Onyx-Data-Challenge-July-2025-Customer-Satisfaction-and-Loyalty-Dashboard](/%20Screenshot%202026-03-30%20233359.png)
+
 ## 📊 Key Analytical Themes
 
 ### 1. Satisfaction and Loyalty Deep Dive  
